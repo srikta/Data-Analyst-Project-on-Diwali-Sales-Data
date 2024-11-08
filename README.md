@@ -1,5 +1,4 @@
 
-Here's a README file for your GitHub repository:
 
 Diwali Sales Data Analysis
 Project Overview
